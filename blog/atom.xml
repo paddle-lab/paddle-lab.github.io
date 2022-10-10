@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/blog</id>
+    <id>https://paddle-lab.github.io/blog</id>
     <title>Paddle Lab Blog</title>
     <updated>2022-08-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/blog"/>
+    <link rel="alternate" href="https://paddle-lab.github.io/blog"/>
     <subtitle>Paddle Lab Blog</subtitle>
-    <icon>https://github.com/img/favicon.ico</icon>
+    <icon>https://paddle-lab.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hello, Paddle Lab!!]]></title>
         <id>welcome</id>
-        <link href="https://github.com/blog/welcome"/>
+        <link href="https://paddle-lab.github.io/blog/welcome"/>
         <updated>2022-08-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[ご挨拶]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ご挨拶">ご挨拶　<a class="hash-link" href="#ご挨拶" title="見出しへの直接リンク">​</a></h3><p>はじめまして。Paddle Lab 代表の山本 隼也と申します。</p><p>本日Paddle Labの最初のWebサイトの作成に取り掛かりはじめました。まずは会社のVision「学ぶことを楽しく」が伝わるものができたらと思っています。</p><p>それに伴いPaddle LabのGithub <a href="https://github.com/paddle-lab" target="_blank" rel="noopener noreferrer">Enterpriseアカウント</a>を開設しています！</p>]]></content>
