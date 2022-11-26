@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://paddle-lab.github.io/blog</id>
-    <title>Paddle Lab Blog</title>
-    <updated>2022-08-07T00:00:00.000Z</updated>
+    <id>https://paddlers-lab.github.io/blog</id>
+    <title>Paddlersrs Lab Blog</title>
+    <updated>2022-11-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://paddle-lab.github.io/blog"/>
-    <subtitle>Paddle Lab Blog</subtitle>
-    <icon>https://paddle-lab.github.io/img/favicon.ico</icon>
+    <link rel="alternate" href="https://paddlers-lab.github.io/blog"/>
+    <subtitle>Paddlersrs Lab Blog</subtitle>
+    <icon>https://paddlers-lab.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Hello, Paddle Lab!!]]></title>
+        <title type="html"><![CDATA[Hello, Paddlers Lab!!]]></title>
         <id>welcome</id>
-        <link href="https://paddle-lab.github.io/blog/welcome"/>
-        <updated>2022-08-07T00:00:00.000Z</updated>
+        <link href="https://paddlers-lab.github.io/blog/welcome"/>
+        <updated>2022-11-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[ご挨拶]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ご挨拶">ご挨拶　<a class="hash-link" href="#ご挨拶" title="見出しへの直接リンク">​</a></h3><p>はじめまして。Paddle Lab 代表の山本 隼也と申します。</p><p>本日Paddle Labの最初のWebサイトの作成に取り掛かりはじめました。まずは会社のVision「学ぶことを楽しく」が伝わるものができたらと思っています。</p><p>それに伴いPaddle LabのGithub <a href="https://github.com/paddle-lab" target="_blank" rel="noopener noreferrer">Enterpriseアカウント</a>を開設しています！</p>]]></content>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ご挨拶">ご挨拶　<a class="hash-link" href="#ご挨拶" title="見出しへの直接リンク">​</a></h3><p>はじめまして。Paddlers Lab 代表の山本隼也と申します。</p><p>本日Paddlers Labの最初のWebサイトの作成に取り掛かりはじめました。まずは会社のVision「学ぶことを楽しく」が伝わるものができたらと思っています。</p><p>それに伴いPaddlers LabのGithub <a href="https://github.com/paddlers-lab" target="_blank" rel="noopener noreferrer">Enterpriseアカウント</a>を開設しています！</p>]]></content>
         <author>
             <name>山本　隼也</name>
             <uri>https://github.com/yamajyn</uri>
