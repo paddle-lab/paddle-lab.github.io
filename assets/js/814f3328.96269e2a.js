@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpages=self.webpackChunkpages||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Paddlers Lab\u306b\u3088\u3046\u3053\u305d","permalink":"/blog/welcome"}]}')}}]);
